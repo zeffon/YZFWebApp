@@ -1,0 +1,6 @@
+VenvDRF
+.idea
+.vscode
+DRFCode/.idea
+__pycache__
+migrations
